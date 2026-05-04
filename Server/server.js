@@ -24,6 +24,7 @@ io.on("connection", (socket) => {
     console.log("User disconnected");
   });
 });
+app.use('/api/ai', require('./routes/aiRoutes'));
 
 app.use(cors());
 app.use(express.json());
