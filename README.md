@@ -1,2 +1,49 @@
-# Devcollab-ai
+## Devcollab-ai
 Chat boat 
+# 🚀 DevCollab AI
+
+A full-stack collaboration platform with **real-time chat** and **AI-powered assistance** for teams.
+
+---
+
+## ✨ Features
+
+* 🔐 JWT Authentication
+* 👥 Workspace / Team system
+* 💬 Real-time chat (Socket.io)
+* 🤖 AI assistant (chat + task suggestions)
+* 📊 Task management dashboard
+* 🎨 Modern responsive UI
+
+---
+
+## 🧠 Tech Stack
+
+* Frontend: React.js + Tailwind CSS
+* Backend: Node.js + Express
+* Database: MongoDB
+* Real-time: Socket.io
+* AI: OpenAI API
+
+---
+
+## 🌐 Live Demo
+
+Frontend: https://github.com/vv1705260-rgb/Devcollab-ai
+Backend: https://github.com/vv1705260-rgb/Devcollab-ai/commits?author=vv1705260-rgb
+
+---
+
+## ⚙️ Run Locally
+
+```bash
+git clone your-repo-link
+cd devcollab-ai
+npm run dev
+```
+
+---
+
+## 📌 Author
+
+Vaishali B
