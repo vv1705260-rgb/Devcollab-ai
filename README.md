@@ -42,6 +42,9 @@ Backend: https://github.com/vv1705260-rgb/Devcollab-ai/tree/main/Server
 Full Stack: https://github.com/vv1705260-rgb/Devcollab-ai
 ---
 
+## 📸 Screenshots 
+<img width="1536" height="1024" alt="86531" src="https://github.com/user-attachments/assets/0baa187f-8e98-475c-8b3c-321a02375731" />
+
 ## 📌 Summary
 
 DevCollab AI demonstrates the implementation of a **scalable full-stack system** combining real-time features and AI integration, making it a practical solution for modern collaborative workflows
