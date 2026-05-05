@@ -37,9 +37,11 @@ It combines **task management, real-time chat, and AI assistance** into a single
 
 ## 🌐 Live Demo
 
-Frontend: https://github.com/vv1705260-rgb/Devcollab-ai/tree/main/client/src/pages
-Backend: https://github.com/vv1705260-rgb/Devcollab-ai/tree/main/Server
-Full Stack: https://github.com/vv1705260-rgb/Devcollab-ai
+### Frontend: https://github.com/vv1705260-rgb/Devcollab-ai/tree/main/client/src/pages
+
+### Backend: https://github.com/vv1705260-rgb/Devcollab-ai/tree/main/Server
+
+### Full Stack: https://github.com/vv1705260-rgb/Devcollab-ai
 ---
 
 ## 📸 Screenshots 
